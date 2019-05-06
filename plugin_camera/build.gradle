@@ -9,6 +9,8 @@ android {
 
 
 
+    resourcePrefix 'plugin_camera_'
+
     defaultConfig {
         minSdkVersion 21
         targetSdkVersion 28
