@@ -1,0 +1,1 @@
+include ':app', ':bridge', ':plugin_camera', ':apis'
